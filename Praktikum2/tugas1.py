@@ -1,10 +1,10 @@
 # ==========================================================
 # TUGAS HANDS-ON MODUL 1
-# Studi Kasus: Sistem Stok Barang Kantin (Berbasis File .txt)
+# Studi Kasus: Sistem Stok Barang Kantin
 #
 # Nama  : Alfitra Mumtaz Hanafi
-# NIM   :
-# Kelas :
+# NIM   : J0403251058
+# Kelas : A2
 # ==========================================================
 
 # -------------------------------
@@ -197,4 +197,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
