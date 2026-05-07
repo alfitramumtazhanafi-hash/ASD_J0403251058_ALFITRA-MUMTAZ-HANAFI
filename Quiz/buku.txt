@@ -1,0 +1,10 @@
+B001, Algoritma Pemrograman, 100000
+B002, Dasar Pemrograman, 90000
+B003, Pertanian Inovatif, 80000
+B004, Bahasa Inggris, 70000
+B005, Statistika, 60000
+B006, Struktur Data 50000
+B007, Bahasa Indonesia, 40000
+B008, Logika Informatika, 30000
+B009, Matematika Terapan, 20000
+B010, Algoritma, 10000
